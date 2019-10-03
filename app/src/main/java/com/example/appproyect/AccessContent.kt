@@ -9,6 +9,7 @@ import kotlinx.android.synthetic.main.activity_access_content.*
 
 class AccessContent : AppCompatActivity() {
 
+
     var ArrayCatalogo = arrayOf("laptos","mouse","tablet","auriculares","Computadoras")
 
     override fun onCreate(savedInstanceState: Bundle?) {
